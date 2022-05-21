@@ -48,4 +48,4 @@
 ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api?username=mendax0110&show_icons=true&count_private=true&hide=prs&theme=dark)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=mendax0110&show_icons=true&count_private=true&hide=prs&theme=dark)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username={mendax0110}&theme=blue-green)
