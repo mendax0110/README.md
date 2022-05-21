@@ -15,6 +15,6 @@
 [![](https://img.shields.io/badge/iOS-iphone-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
 ![](https://visitor-badge.glitch.me/badge?page_id=mendax0110.readme)
 ![](https://aleen42.github.io/badges/src/stackoverflow.svg)
-
+![](https://aleen42.github.io/badges/src/stackexchange.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=mendax0110&show_icons=true&count_private=true&hide=prs&theme=dark)
