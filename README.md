@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on some PLC and C scripts
+- 🔭 I’m currently working on PLC and C scripts
 - 🌱 I’m currently learning hackthebox
 - 👯 I’m looking for collaboration on a radio telescope project
 - 🤔 I’m looking for help with maleware analysis
