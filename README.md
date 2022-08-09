@@ -1,5 +1,3 @@
-
-
 - 🔭 I’m currently working on C++, C, C#, VHDL and python scripts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning hackthebox
 - 👯 I’m looking for collaboration on a radio telescope project
@@ -9,7 +7,7 @@
 - 🔭 Now working on SCCM ...
 - 🌱 Now playing with python & cyber security ...
 
-<h2 align="left"</h2>
+<h2> align="left"</h2>
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
