@@ -47,6 +47,7 @@
 ![](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
+<h2 align="left">👨🏻‍💻Some Stats:</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=mendax0110&theme=blue-green) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mendax0110&theme=blue-green)
    
