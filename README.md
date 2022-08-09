@@ -7,7 +7,7 @@
 - 🔭 Now working on SCCM ...
 - 🌱 Now playing with python & cyber security ...
 
-<h2> align="left"</h2>
+<h2 align="left">👨🏻‍💻My Skills:</h2>
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
