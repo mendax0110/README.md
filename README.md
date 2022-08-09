@@ -1,3 +1,4 @@
+<h2 align="left">👨🏻‍💻About Me:</h2>
 - 🔭 I’m currently working on C++, C, C#, VHDL and python scripts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning hackthebox
 - 👯 I’m looking for collaboration on a radio telescope project
