@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on PLC and C scripts
+- 🔭 I’m currently working on C++, C, C#, VHDL and python scripts <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning hackthebox
 - 👯 I’m looking for collaboration on a radio telescope project
 - 🤔 I’m looking for help with maleware analysis
