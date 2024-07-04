@@ -9,13 +9,13 @@
 
 <h2 align="left">👨🏻‍💻About Me:</h2>
 
-- 🔭 I’m currently working on C++, C, C# and python scripts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on C++, C, C# and Python scripts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning hackthebox
 - 👯 I’m looking for collaboration on a radio telescope project
 - 🤔 I’m looking for help with maleware analysis
 - 💬 Ask me about electronics, IoT and AI...
-- 🔭 Now working with microcontrollers, embedded and c++ ...
-- 🌱 Now playing with python & cyber security ...
+- 🔭 Now working with microcontrollers, embedded stuff and C++ ...
+- 🌱 Now playing with Python & cyber security ...
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
